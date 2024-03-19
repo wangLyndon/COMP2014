@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dsa.iface","l":"IList"},{"p":"dsa.iface","l":"IPosition"},{"p":"dsa.iface","l":"IQueue"},{"p":"dsa.iface","l":"ITree"},{"p":"dsa.impl","l":"LinkedQueue"},{"p":"dsa.impl","l":"ListIterator"},{"p":"dsa.impl","l":"SLinkedList"}];updateSearchResults();
